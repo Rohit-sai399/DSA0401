@@ -1,3 +1,6 @@
+# How would you use NumPy arrays to calculate the average score for each subject and
+# determine the subject with the highest average score? Assume 4x4 matrix that stores marks of each
+# student in given order.
 import pandas as pd
 import numpy as np
 from tkinter import Tk
